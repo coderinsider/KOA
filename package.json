@@ -1,0 +1,24 @@
+{
+  "name": "koa-js",
+  "version": "1.0.0",
+  "description": "Happy Code",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/coderinsider/KOA.git"
+  },
+  "author": "Myat Ko Ko",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/coderinsider/KOA/issues"
+  },
+  "homepage": "https://github.com/coderinsider/KOA#readme",
+  "dependencies": {
+    "bootstrap": "^4.4.1",
+    "koa": "^2.11.0",
+    "nodemon": "^2.0.2"
+  }
+}
